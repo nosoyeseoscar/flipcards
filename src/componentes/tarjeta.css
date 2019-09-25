@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+    /* cambiamos el tamaño del tamaño del header para que quepan nombres largos */
+    .nombre {
+        height: 70px;
+    }
+ }
+
+.correo {
+    height: 40px;
+}
